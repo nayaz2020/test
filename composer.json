@@ -1,0 +1,11 @@
+{
+  "name": "nayaz/test",
+  "authors": [
+    {
+      "name": "nematullah", "email": "nematullah.ayaz@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
